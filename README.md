@@ -1,5 +1,5 @@
 # Spike-and-Slab Probabilistic Backpropagation
-Forked from [this repository](https://github.com/HIPS/Probabilistic-Backpropagation).
+Modified from code forked from [this repository](https://github.com/HIPS/Probabilistic-Backpropagation).
 
 To run experiments, use `python icbinb_runner.py` and to print results, use `python icbinb_results.py`.
 
